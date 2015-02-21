@@ -6,4 +6,4 @@ YouTubeDemo
 
 Test Repo for YouTube series
 
-Hello from my screencast and from Codenvy
+Hello from my screencast and from Codenvy my account
