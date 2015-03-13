@@ -8,4 +8,4 @@ Test Repo for YouTube series
 
 Hello from my screencast and from Codenvy my account
 
-Demo for Agile
+Demo from UCI
