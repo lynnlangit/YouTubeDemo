@@ -3,6 +3,6 @@
 YouTubeDemo
 ===========
 
-Test Repo for YouTube series
+Test Repo for YouTube series - simplest possible example
 
 
