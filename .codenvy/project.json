@@ -1,1 +1,1 @@
-{"runners":{"configs":{"system:/javascript/web/simple":{"ram":256,"variables":{},"options":{}}},"default":"system:/javascript/web/simple"},"description":"Test Repo for YouTube series","type":"blank","attributes":{"language":["unknown"]}}
+{"mixinTypes":["contribution"],"builders":{"configs":{}},"runners":{"configs":{"system:/javascript/web/simple":{"ram":256,"variables":{},"options":{}}},"default":"system:/javascript/web/simple"},"description":"Test Repo for YouTube series","type":"blank","attributes":{"contribute_branch":["master"],"contribute_mode":["contribute"]}}

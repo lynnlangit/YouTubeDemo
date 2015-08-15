@@ -6,6 +6,6 @@ YouTubeDemo
 
 Test Repo for YouTube series
 
-Hello from my screencast and from Codenvy my account
+Hello from my screencast and from Codenvy (my account).
 
-Demo for Agile
+Demo for Agile and checking the update process again.
